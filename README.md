@@ -13,3 +13,11 @@ Before text enlargement
 Bug(After text enlargement)
 
 ![Bug(After text enlargement)](https://github.com/AdrianPricopie/My-bugs-report/blob/main/Bug%20report%20%231/Bug(After%20text%20enlargement).png)
+
+**2.All Images Fail to Load on Central Public Authorities Page**
+
+![bug repo2](https://github.com/AdrianPricopie/My-bugs-report/blob/main/Bug%20report%20%232/bug%20report%202.png)
+
+attachment:
+
+![console](https://github.com/AdrianPricopie/My-bugs-report/blob/main/Bug%20report%20%232/console.png)
