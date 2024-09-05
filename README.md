@@ -21,3 +21,13 @@ Bug(After text enlargement)
 attachment:
 
 ![console](https://github.com/AdrianPricopie/My-bugs-report/blob/main/Bug%20report%20%232/console.png)
+
+**3.Inconsistent Documentation for Trello API - Archiving/Unarchiving Lists**
+
+![bug repo3](https://github.com/AdrianPricopie/My-bugs-report/blob/main/My%20bug%20%23%203/Bug%20Api%20trello%20documentation.png)
+
+attachments:
+
+![doc](https://github.com/AdrianPricopie/My-bugs-report/blob/main/My%20bug%20%23%203/Documentation%20API.png)
+![with value](https://github.com/AdrianPricopie/My-bugs-report/blob/main/My%20bug%20%23%203/with%20value%20parameter.png)
+![without](https://github.com/AdrianPricopie/My-bugs-report/blob/main/My%20bug%20%23%203/without%20value%20parameter.png)
